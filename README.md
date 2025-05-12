@@ -1,9 +1,9 @@
 <p align="right">
-  <img src="[https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3NHhsemhqNWgxZGp3aW03ZGgwOHY1Zng2eTc3ZmlleDdwN3Q4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="200px" />
+  <img src="[https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200px" />
 </p>
 
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#ff69b4">Sarah</span>!</h1>
-<h3 align="center">💻 Final Year Student in Bachelor of Computer Science (Hons.) Netcentric Computing | 🧠 Digital Forensics Enthusiast</h3>
+<h3 align="center">💻 Final Year Computer Science | 🧠 Digital Forensics Enthusiast</h3>
 
 ---
 
