@@ -5,7 +5,7 @@
 
 
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#ff69b4">Sarah</span>!</h1>
-<h3 align="center">💻 Final Year Computer Science | 🧠 Digital Forensics Enthusiast</h3>
+<h3 align="center">💻 Final Year Computer Science Student | 🧠 Digital Forensics Enthusiast</h3>
 
 ---
 
