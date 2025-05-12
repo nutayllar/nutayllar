@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="right">
+<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3NHhsemhqNWgxZGp3aW03ZGgwOHY1Zng2eTc3ZmlleDdwN3Q4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px" />
 </p>
 
