@@ -1,6 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80%" />
+<p align="right">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200px" />
 </p>
 
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#ff69b4">Sarah</span>!</h1>
