@@ -1,66 +1,85 @@
 <!-- Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+</p>
 
-<h1 align="center">Hi, I'm Sarah 👩‍💻</h1>
-<h3 align="center">Final Year Student in Bachelor of Computer Science (Hons.) Netcentric Computing | Digital Forensics & NLP Enthusiast</h3>
-
----
-
-### 🕵️‍♀️ About Me
-
-- 🎓 Final Year Student majoring in **Netcentric Computing**
-- 🔬 Passionate about **Digital Forensics**, **Natural Language Processing**, and **Cybersecurity**
-- 🛠 Currently building **SOCIALDETECTIVE**: A web-based forensic tool using NLP for social media investigations
-- 💡 Always curious to explore how AI can assist forensic investigations
+<h1 align="center">👩‍💻 Hi, I'm <span style="color:#ff69b4">Sarah</span>!</h1>
+<h3 align="center">💻 Final Year Student in Bachelor of Computer Science (Hons.) Netcentric Computing | 🧠 Digital Forensics Enthusiast</h3>
 
 ---
 
-### 💼 My Final Year Project: SOCIALDETECTIVE
+### 🔎 About Me
 
-🔍 **SOCIALDETECTIVE** is a Django + React-powered web app for forensic investigators to:
-- 🧠 Normalize and analyze social media data from **Twitter** and **Instagram**
-- 💬 Apply **NLP** to detect malicious content like **hate speech** or **threats**
-- 📊 Generate reports to aid digital forensic investigations
-
-🧪 Built with:
-- **React.js** frontend with Material Tailwind UI
-- **Django** backend with JWT Auth
-- **PostgreSQL** database
-- **Hugging Face Transformers** for NLP
-- **AWS S3** for secure storage
+- 🎓 Final Year Student at Universiti Teknologi Mara 
+- 🕵️‍♀️ Passionate about **Digital Forensics**, **AI/NLP**, and **Cybersecurity**
+- 🛠 Building **SOCIALDETECTIVE**: A forensic web app to investigate malicious content on social media using NLP
+- 💬 Always learning and building meaningful tools for digital investigations
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 My Final Year Project: SOCIALDETECTIVE
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+> 💡 A web-based tool for forensic investigators to securely analyze **Twitter** and **Instagram** data using **Natural Language Processing (NLP)**
 
----
-
-### 📊 GitHub Stats
+#### 🔧 Key Features:
+- 🗃 Text Normalization & Harmonization
+- 📈 NLP-Powered Malicious Content Detection
+- 📊 Visual Report Generation
+- 🔐 Secure User Roles: Investigators & Admins
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nutayllar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nutayllar&theme=tokyonight" width="48%" />
+  <a href="https://github.com/nutayllar/SOCIALDETECTIVE" target="_blank">
+    <img alt="GitHub repo" src="https://img.shields.io/badge/Visit%20Project-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/
-nurmaisarah-riswady-b807b1207)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/nutayllar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nurmaisarahriswady13@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
-⭐️ Thanks for visiting my profile!
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nutayllar&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nutayllar&theme=radical&hide_border=true" width="45%"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:nurmaisarahriswady13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/
+nurmaisarah-riswady-b807b1207">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nutayllar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 💬 Quote That Inspires Me
+
+> *“Forensics is not about catching people. It’s about finding the truth.”*
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my projects or connect with me!*
